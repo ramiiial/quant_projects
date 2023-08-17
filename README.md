@@ -6,3 +6,4 @@ Here's a collective list of my public quant projects.
 
 
 # This repository is a place to show a few projects that I am / or was working on. 
+# Link of Jupyter ShortCuts: https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
